@@ -1,10 +1,6 @@
 # javascript-sudoku
 
-    Make Sudoku Game With HTML CSS JavaScript
-
-# Video tutorial
-
-    https://youtu.be/xpsm3tOLTVE
+    A Simple Sudoku Game With HTML CSS & JavaScript
 
 # Resource
 
